@@ -1,7 +1,8 @@
 # CS-370-Course - Current/Emerging Trends in CS
 #
-#This course was my first glimpse into machine learning.  In this course, we studied various machine learning algorithms such as Reinforcement Learning with 
-Deep Q neural networks, and the attached project code is an example.
+This course was my first glimpse into machine learning.  In this course, we studied various machine learning algorithms such as Reinforcement Learning with 
+Deep Q neural networks, and the attached project code is an example.  We were given a template that contained the set up for a machine to learn a Treasure Hunting game.
+The template contained pseudo code that we needed to review in order to create the deep Q learning algorithm that would train the agent to solve the pathfinding maze problem. 
 #
 ```
 #What do computer scientists do and why does it matter?
